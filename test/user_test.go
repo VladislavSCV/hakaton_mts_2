@@ -15,3 +15,7 @@ func TestWelcome(t *testing.T) {
 func TestWelcome2(t *testing.T) {
 	t.Errorf("Error: %v", errors.New("Жесть ошибка"))
 }
+
+func TestWelcome3(t *testing.T) {
+	t.Errorf("Error: %v", errors.New("Жесть ошибка"))
+}
