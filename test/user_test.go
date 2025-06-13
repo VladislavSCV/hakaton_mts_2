@@ -1,7 +1,7 @@
 package test
 
 import (
-	"github.com/pkg/errors"
+	// "github.com/pkg/errors"
 	"testing"
 )
 
